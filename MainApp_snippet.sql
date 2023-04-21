@@ -1,0 +1,3 @@
+INSERT INTO "MainApp_snippet" ("id", "name", "lang", "code", "creation_date") VALUES (1, 'Hello world Snippet', 'python', 'print(\"Hello world\")', '2023-04-21 09:37:32.610565');
+INSERT INTO "MainApp_snippet" ("id", "name", "lang", "code", "creation_date") VALUES (2, 'Second Snippet', 'C++', 'code text', '2023-04-21 09:40:31.202130');
+INSERT INTO "MainApp_snippet" ("id", "name", "lang", "code", "creation_date") VALUES (3, 'Third Snippet', 'Java', 'script text', '2023-04-21 09:42:04.217532');
